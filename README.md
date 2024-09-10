@@ -12,6 +12,11 @@ python config.py
 ```
 python nftdropmulti.py
 ```
+# Input pvkeylist dengan privatekeymu
+- pvkey1
+- pvkey2
+- pvkey3
+- pvkey4
 
 # How To Install Requirements
 # For Windows
