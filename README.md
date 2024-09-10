@@ -14,8 +14,9 @@ python nftdropmulti.py
 ```
 
 # How To Install Requirements
+# For Windows
+- [Download Here](https://www.python.org/downloads/release/python-3100/)
 - Recomended Using Python 3.10
-- For Windows [Download Here](https://www.python.org/downloads/release/python-3100/) [Scrool Down]
 - Maybe For Windows 10 Or Higher You Can Install Python 3.10 From Microsoft Store
 ```
 python -m pip install pip --upgrade
@@ -24,7 +25,8 @@ pip install web3==6.20.1
 pip install schedule
 pip install pytz
 ```
-- For Termux Android [Download Here](https://f-droid.org/repo/com.termux_1020.apk) [F-Droid Version]
+# For Termux Android
+- [Download Here](https://f-droid.org/repo/com.termux_1020.apk) [F-Droid Version]
 - After Install Termux, Make Sure Allowed Permission Storage On Setting Termux
 ```
 pkg update && upgrade
@@ -38,7 +40,7 @@ pip install web3==6.20.1
 pip install schedule
 pip install pytz
 ```
-- For Ubuntu 18.04 | 20.04 | 22.04 (VPS)
+# For Ubuntu 18.04 | 20.04 | 22.04 (VPS)
 ```
 apt update && sudo apt upgrade -y
 apt install software-properties-common -y
